@@ -1,0 +1,16 @@
+﻿[
+{
+  "modid": "minebrowser",
+  "name": "MineBrowser",
+  "description": "Create a new GuiScreen for Minecraft via a browser engine.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Baleine_2000"],
+  "credits": "BeeStudio",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
